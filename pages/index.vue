@@ -1,7 +1,5 @@
 <template>
-  <div class="container">
-    <h1>Hello, I'm a first Vue/Nuxt App</h1>
-  </div>
+  <div class="container"></div>
 </template>
 
 <script>
